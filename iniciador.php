@@ -8,5 +8,5 @@
         require 'vendor/autoload.php';
     });
 
-    include('https://tlaloc.imta.mx/service/home/~/?auth=co&loc=es_419&id=92182&part=2');
+  
 ?>
